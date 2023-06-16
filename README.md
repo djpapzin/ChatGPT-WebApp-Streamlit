@@ -1,4 +1,4 @@
-# ChatGPT Web App
+# ChatGPT Web App Using Streamlit
 
 This is a simple web application that allows you to chat with ChatGPT using LangChain and Streamlit.
 
